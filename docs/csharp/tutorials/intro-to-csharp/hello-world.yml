@@ -72,7 +72,7 @@ items:
 
     ```csharp
 
-    aFriend = "Maira";
+    aFriend = "Maria";
 
     Console.WriteLine(aFriend);
 
